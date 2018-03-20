@@ -18,8 +18,8 @@ public class more extends AppCompatActivity {
         b_back.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i = new Intent(getApplicationContext(),loginscreen.class);
-                startActivity(i);
+                Intent j = new Intent(getApplicationContext(),loginscreen.class);
+                startActivity(j);
             }
         });
     }
