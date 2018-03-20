@@ -16,7 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".loginscreen"></activity>
+        <activity android:name=".loginscreen" />
+        <activity android:name=".more" />
+        <activity android:name=".join" />
+        <activity android:name=".login"></activity>
     </application>
 
 </manifest>

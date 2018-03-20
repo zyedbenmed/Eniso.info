@@ -7,5 +7,8 @@
     <color name="backblue">#3b5998</color>
     <color name="lightblue">#48b5f4</color>
     <color name="faintblue">#05c3f9</color>
+    <color name="darkblue">#23283a</color>
+    <color name="darkpink">#fe104d</color>
+    <color name="white">#ffffff</color>
 
 </resources>
